@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Blanco py", "Blanco py\Blanco py.pyproj", "{1C193DCD-F32C-48E0-A2BC-A18BA5DCC7D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C193DCD-F32C-48E0-A2BC-A18BA5DCC7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C193DCD-F32C-48E0-A2BC-A18BA5DCC7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1DEA18-F233-43D4-932A-FE1D3AAD5E69}
+	EndGlobalSection
+EndGlobal
